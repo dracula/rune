@@ -1,34 +1,33 @@
-# `dracula` theme for Rune
+# Dracula for [Rune](https://rune.build)
 
-a theme pkg for [Rune](https://rune.build) containing the [Dracula](https://draculatheme.com) palette, built from the official [color spec](https://draculatheme.com/spec).
+> A dark theme for [Rune](https://rune.build).
 
-<img width="1264" height="1388" alt="screenshot" src="https://github.com/user-attachments/assets/d30d4a89-2186-4115-b5cc-38e9b36717ea" />
+![Screenshot](./screenshot.png)
 
 ## Install
 
-> requires rune built from `main` at commit `e428893` (2026-10-04) or later.
+All instructions can be found at [draculatheme.com/rune](https://draculatheme.com/rune).
 
-In the Rune console, run:
+## Team
 
-```text
-pkg install github.com/quietdreamr/rune-theme-dracula
-```
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/rune/graphs/contributors).
 
-From the command prompt you can do the same in one step:
+| [![Fabio](https://github.com/quietdreamr.png?size=100)](https://github.com/quietdreamr) |
+| --------------------------------------------------------------------------------------- |
+| [Fabio](https://github.com/quietdreamr)                                                 |
 
-```text
-console pkg install github.com/quietdreamr/rune-theme-dracula
-```
+## Community
 
-Then activate the theme:
+Join thousands of vampires using Dracula Theme around the world 🦇
 
-```text
-guitheme dracula
-```
+- [X (Twitter)](https://x.com/draculatheme) and [Instagram](https://www.instagram.com/draculatheme) - Follow for tips, news, and fun.
+- [Discord](https://draculatheme.com/discord-invite) - Hang out and chat with the rest of the clan.
+- [GitHub Discussions](https://github.com/dracula/dracula-theme/discussions) - Ask questions and discuss issues.
 
-To use it at startup, set the following in your own `config.yaml`:
+## Dracula PRO
 
-```yaml
-gui:
-  default_theme: dracula
-```
+[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
+
+## License
+
+[MIT License](./LICENSE)
